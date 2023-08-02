@@ -31,7 +31,7 @@
 ### :man_technologist: About Me :
 
 <ul>
-  <li> ✨ Undergraduate pursuing a Bachelor of Science in Computer Science</li>
+  <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
   <li> 🌱 Web developer with passion</li>
   <li> 🔭 Currently working as a freelance Frontend Developer</li>
   <li> ⚡ Aim to become proficient in the Full-Stack</li>
