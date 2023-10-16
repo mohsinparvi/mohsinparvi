@@ -64,13 +64,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aboutmohsin&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmohsin&show_icons=true&theme=dark)
+![aboutmohsin's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=aboutmohsin&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aboutmohsin&theme=react)](https://git.io/streak-stats)
+[![aboutmohsin's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aboutmohsin&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmohsin&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![aboutmohsin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aboutmohsin)](https://github.com/anuraghazra/github-readme-stats)
+[![aboutmohsin's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=aboutmohsin&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![aboutmohsin's Top Languages](https://github-readme-stats-orcin-pi-41.vercel.app/api/top-langs/?username=aboutmohsin&langs_count=10&theme=vue-dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
