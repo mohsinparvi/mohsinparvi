@@ -62,7 +62,7 @@
 
 ### :fire: My Stats :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AteeqRana7&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aboutmohsin&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmohsin&show_icons=true&theme=dark)
 
@@ -70,9 +70,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmohsin&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![aboutmohsin's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=AteeqRana7&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![aboutmohsin's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=aboutmohsin&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Mohsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aboutmohsin&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
