@@ -66,7 +66,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutmohsin&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?username=aboutmohsin&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aboutmohsin&theme=react)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutmohsin&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
