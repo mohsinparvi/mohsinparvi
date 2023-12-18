@@ -54,8 +54,7 @@
 </div>
 
 ### :fire: My Stats :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aboutmohsin&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=aboutmohsin&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ![aboutmohsin's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=aboutmohsin&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
 
