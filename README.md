@@ -2,30 +2,30 @@
   <h1>Moshin Hassan - Junior Web Developer @ Uptech Sol </h1>
   <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="150"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/aboutmohsin/">
+  <a href="https://www.linkedin.com/in/mohsinparvi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!-- <a href="https://stackoverflow.com/users/13228534/aboutmohsin">
+  <!-- <a href="https://stackoverflow.com/users/13228534/mohsinparvi">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/aboutmohsin">
+  <a href="https://www.hackerrank.com/mohsinparvi">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-    <a href="https://gitlab.com/aboutmohsin">
+    <a href="https://gitlab.com/mohsinparvi">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
-    <a href="https://codepen.io/aboutmohsin">
+    <a href="https://codepen.io/mohsinparvi">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Behance Badge"/>
   </a>
      </a>
-    <a href="https://www.codewars.com/users/aboutmohsin">
+    <a href="https://www.codewars.com/users/mohsinparvi">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="GitLab Badge"/>
   </a>
-  <a href="https://www.behance.net/aboutmohsin">
+  <a href="https://www.behance.net/mohsinparvi">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a> -->
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-aboutmohsin&style=flat-square&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-mohsinparvi&style=flat-square&color=orange" alt=""/>
 </div>
 
 ### :man_technologist: About Me :
@@ -54,16 +54,16 @@
 </div>
 
 ### :fire: My Stats :
-![](https://github-profile-trophy.vercel.app/?username=aboutmohsin&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohsinparvi&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-![aboutmohsin's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=aboutmohsin&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
+![mohsinparvi's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=mohsinparvi&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)
 
-[![aboutmohsin's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aboutmohsin&theme=vue-dark)](https://git.io/streak-stats)
+[![mohsinparvi's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohsinparvi&theme=vue-dark)](https://git.io/streak-stats)
 
-[![aboutmohsin's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=aboutmohsin&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![mohsinparvi's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=mohsinparvi&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![aboutmohsin's Top Languages](https://github-readme-stats-orcin-pi-41.vercel.app/api/top-langs/?username=aboutmohsin&langs_count=10&theme=vue-dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![mohsinparvi's Top Languages](https://github-readme-stats-orcin-pi-41.vercel.app/api/top-langs/?username=mohsinparvi&langs_count=10&theme=vue-dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mohsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aboutmohsin&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohsinparvi&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
