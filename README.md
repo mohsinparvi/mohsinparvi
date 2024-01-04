@@ -60,7 +60,7 @@
 
 [![mohsinparvi's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohsinparvi&theme=vue-dark)](https://git.io/streak-stats)
 
-[![mohsinparvi's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=mohsinparvi&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![mohsinparvi's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=aboutmohsin&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![mohsinparvi's Top Languages](https://github-readme-stats-orcin-pi-41.vercel.app/api/top-langs/?username=mohsinparvi&langs_count=10&theme=vue-dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
