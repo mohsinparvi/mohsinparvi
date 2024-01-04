@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a> -->
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-mohsinparvi&style=flat-square&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=mohsinparvi&style=flat-square&color=orange" alt=""/>
 </div>
 
 ### :man_technologist: About Me :
