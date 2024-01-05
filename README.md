@@ -24,34 +24,22 @@
   <a href="https://www.behance.net/mohsinparvi">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a> -->
-</div>
+  </div>
 <img src="https://komarev.com/ghpvc/?username=mohsinparvi&style=flat-square&color=orange" alt=""/>
 </div>
 
 ### :man_technologist: About Me :
 
-<ul>
+<ul >
   <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
   <li> 🌱 Web developer with passion</li>
   <li> 🔭 Currently working as a freelance Frontend Developer</li>
   <li> ⚡ Aim to become proficient in the Full-Stack</li>
 </ul>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React Js" alt="React Js" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next Js" alt="Next Js" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
-</div>
+
+### ⚙️ Tools & Technologies :
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,react,vite,nextjs,redux,graphql,nodejs,express,mongodb,mysql,firebase,postgres,git,postman,vscode,xd,figma,&theme=dark)](https://skillicons.dev)
 
 ### :fire: My Stats :
 ![](https://github-profile-trophy.vercel.app/?username=mohsinparvi&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
