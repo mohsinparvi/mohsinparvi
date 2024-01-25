@@ -33,8 +33,9 @@
 <ul >
   <li> ✨ A fresh graduate with a Bachelor of Science in Computer Science.</li>
   <li> 🌱 Web developer with passion</li>
-  <li> 🔭 Currently working as a freelance Frontend Developer</li>
-  <li> ⚡ Aim to become proficient in the Full-Stack</li>
+   <li> 💻 Junior Web Developer @ Uptech Sol.</li>
+  <li> 🔭 Currently working as a Junior Web Developer</li>
+<!--   <li> ⚡ Aim to become proficient in the Full-Stack</li> -->
 </ul>
 
 
