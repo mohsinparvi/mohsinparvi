@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Moshin Hassan - Web Developer @ Uptech Sol </h1>
+  <h1>Moshin Hassan - Frontend React Js Developer @ Uptech Sol </h1>
   <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b761192b7c3bea4652e26b424e3d12f0af4f58b95daae&rid=giphy.gif&ct=s" width="150"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mohsinparvi/">
