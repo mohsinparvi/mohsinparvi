@@ -32,8 +32,7 @@
 
 <ul >
   <li> ✨ Bachelor's of Science in Computer Science.</li>
-   <li> 💻 Full Stack Developer @ Uptech Sol.</li>
-  <li> 🌱 Web developer with passion</li>
+   <li> 💻 Software Engineering @ Turing Technologies.</li>
   <li> 🔭 Full-stack web developer specializing in TypeScript and JavaScript, building dynamic and performant applications with Next.js, React, Express, and SQL/NoSQL databases</li>
 <!--   <li> ⚡ Aim to become proficient in the Full-Stack</li> -->
 </ul>
